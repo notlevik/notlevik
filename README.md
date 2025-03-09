@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @notlevik
-- 👀 I’m interested in haking and discord coding
+- 👀 I’m interested in hacking and discord coding
 - 🌱 I’m currently learning js
